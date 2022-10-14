@@ -1,0 +1,15 @@
+::selection {
+background: #D2691E; /* Safari */
+}
+::-moz-selection {
+background: #D2691E; /* Firefox */
+}
+
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.underline {
+	 border-bottom: 2px solid currentColor;
+	 border-bottom-color: darkorange;
+}
